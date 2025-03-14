@@ -1,16 +1,25 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=D2D2D2&width=435&lines=Hello+World!+I'm+Letycia+Araldi.;Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 
-<!--
-**lelety12/lelety12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🌱 I’m currently learning Python, Java and JavaScript 
+ - 📫 How to reach me:araldiletycia@gmail.com
+<br>
 
-Here are some ideas to get you started:
+```js
+import Desenvolvedor from lelety12;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class SobreMim extends Desenvolvedor {
+  nome = ["Letycia Araldi"];
+  area = ["Técnico em Informatica"];
+  instituição = ["Instistuto Federal de Santa Catarina Câmpus Xanxerê"];
+  local = ["Xanxerê, Santa Catarina"];
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["Java, Python"];
+}
+```
+<br>
+
+<img width="9%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> <img width="8%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+
+<br>
